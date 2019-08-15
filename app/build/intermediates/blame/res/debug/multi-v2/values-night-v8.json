@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\ys\\Documents\\PersonalProject\\Android\\Shelf\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ys\\.gradle\\caches\\transforms-2\\files-2.1\\97298b8efd83d9cc7eefd1c2025d4d34\\res\\values-night-v8\\values-night-v8.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,102,148,195,246,297,351,402",
+                        "endColumns": "46,45,46,50,50,53,50,46",
+                        "endOffsets": "97,143,190,241,292,346,397,444"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\ys\\.gradle\\caches\\transforms-2\\files-2.1\\0b3ee4080b847df5ae143f33f7197c04\\res\\values-night-v8\\values-night-v8.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,125,209,293,389,491,593",
+                        "endColumns": "69,83,83,95,101,101,93",
+                        "endOffsets": "120,204,288,384,486,588,682"
+                    },
+                    "to": {
+                        "startLines": "10,11,12,13,14,15,16",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "449,519,603,687,783,885,987",
+                        "endColumns": "69,83,83,95,101,101,93",
+                        "endOffsets": "514,598,682,778,880,982,1076"
+                    }
+                }
+            ]
+        }
+    ]
+}
